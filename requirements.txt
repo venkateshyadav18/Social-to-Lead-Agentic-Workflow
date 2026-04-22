@@ -1,0 +1,17 @@
+# AutoStream AI Agent — Python dependencies
+# Tested with Python 3.10+
+
+# LLM & orchestration
+google-generativeai>=0.7.0
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-google-genai>=1.0.0
+langgraph>=0.2.0
+
+# RAG — semantic embeddings
+sentence-transformers>=2.7.0
+numpy>=1.26.0
+
+# Environment / utilities
+python-dotenv>=1.0.0
+typing-extensions>=4.9.0
